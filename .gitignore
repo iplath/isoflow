@@ -1,0 +1,21 @@
+# Git Ignore File
+
+# Do not ignore
+!/.gitignore
+!/.gitattributes
+
+# Ignore Sensitive Files
+
+
+# Logs
+*.log
+
+# Ignored Files
+*.bak
+*.FCBak
+*.tmp
+isoflow-icons/*.svg
+
+
+# Operating System Trash Files
+.DS_Store
